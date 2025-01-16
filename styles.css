@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #f3a683, #ff7979);
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+}
+
+header {
+    background: linear-gradient(to right, #a18cd1, #fbc2eb);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+.bg-light {
+    background: #f7f1e3;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-weight: bold;
+    color: #2f3542;
+}
+
+footer {
+    background: #2f3542;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    background: linear-gradient(to right, #ff6a88, #ff7eb3);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: linear-gradient(to right, #ff85a1, #ff98c4);
+}
